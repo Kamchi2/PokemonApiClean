@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PokemonApiClean</string>
+    <string name="pokemon_title">Покемоны</string>
+</resources>
